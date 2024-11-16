@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm N Fadeela</h1>
-<h3 align="center">Hey all 👋🏻
-I am N Fadeela, a CSE undergrad at GEC palakkad who just stepped into the world of technology and coding 👩🏻‍💻
-I am always open to new opportunities 🤩 and I LOVE ❤️ to explore new things.....
-Currently I am exploring the various domains in tech field 🕵🏻‍♀
-
-Looking forward to have an amazing learning journey 🤓</h3>
+<h3 align="center">Hey all 👋🏻 I am N Fadeela, a CSE undergrad at GEC palakkad who just stepped into the world of technology and coding 👩🏻‍💻 I am always open to new opportunities 🤩 and I LOVE ❤️ to explore new things..... Currently I am exploring the various domains in tech field 🕵🏻‍♀ Looking forward to have an amazing learning journey 🤓</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadeeii&label=Profile%20views&color=0e75b6&style=flat" alt="fadeeii" /> </p>
 
@@ -14,7 +9,7 @@ Looking forward to have an amazing learning journey 🤓</h3>
 
 - 🌱 I’m currently learning **B.Tech in Computer Science Engineering**
 
-- 👨‍💻 My very first project [https://github.com/Ranger-NF/ThaapaSakhi](https://github.com/Ranger-NF/ThaapaSakhi)
+- 👨‍💻 All of my projects are available at [https://github.com/Ranger-NF/ThaapaSakhi](https://github.com/Ranger-NF/ThaapaSakhi)
 
 - ⚡ Fun fact **I love singing 🎵**
 
@@ -31,8 +26,3 @@ Looking forward to have an amazing learning journey 🤓</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fadeeii&show_icons=true&locale=en" alt="fadeeii" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fadeeii&" alt="fadeeii" /></p>
-
-<!---
-Fadeeii/Fadeeii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
