@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **B.Tech in Computer Science Engineering**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ranger-NF/ThaapaSakhi](https://github.com/Ranger-NF/ThaapaSakhi)
+- 👨‍💻 My very first project [https://github.com/Ranger-NF/ThaapaSakhi](https://github.com/Ranger-NF/ThaapaSakhi)
 
 - ⚡ Fun fact **I love singing 🎵**
 
