@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm N Fadeela</h1>
-<h3 align="center">I am a passionate continuous learner and a tech enthusiast. I always look forward to get out of my comfort zone to explore and understand different things!!!!</h3>
+<h3 align="center">Hey all 👋🏻
+I am N Fadeela, a CSE undergrad at GEC palakkad who just stepped into the world of technology and coding 👩🏻‍💻
+I am always open to new opportunities 🤩 and I LOVE ❤️ to explore new things.....
+Currently I am exploring the various domains in tech field 🕵🏻‍♀
+
+Looking forward to have an amazing learning journey 🤓</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadeeii&label=Profile%20views&color=0e75b6&style=flat" alt="fadeeii" /> </p>
 
